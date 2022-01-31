@@ -1,19 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Welcome to My Github Repos
 
-<!--
-**mjaichand/mjaichand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Jaichand**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently doing Masters in Applied Computer Science.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java, Greenplum, MySQL, Shell Scripting, hobbies
-- 📫 How to reach me: mjaichandms@gmail.com
-- 😄 Pronouns: Male
-- ⚡ Fun fact: One of my favorite things to do is finding answers for unsolved riddles
--->
+I’m currently doing Masters in Applied Computer Science at [NWMSU](https://www.nwmissouri.edu/).
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/MJaichand)
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)](https://www.instagram.com/jaichand.m/)
+I have previous work experience at [Capgemini](https://www.capgemini.com/), Bangalore.
+
+Ask me about Java, Greenplum, MySQL, Shell Scripting
+
+One of my favorite things to do is finding answers for unsolved riddles
+
+Reach me @ <mjaichandms@gmail.com>
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MJaichand.svg?style=social&label=Follow%20%40MJaichand)](https://twitter.com/MJaichand)
+
+[![Intagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaichand.m/)
