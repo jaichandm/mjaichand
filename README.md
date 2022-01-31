@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/MJaichand)
+[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)](https://www.instagram.com/jaichand.m/)
