@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently doing Masters in Applied Computer Science at [NWMSU](https://www.nwmissouri.edu/).
 - 🏢  I have previous work experience at [Capgemini](https://www.capgemini.com/), Bangalore.
-- 💬 Ask me about Java, Greenplum, MySQL, Shell Scripting
+- 💬 Ask me if you have doubts in Java, Greenplum, MySQL, Shell Scripting, webapps, MongoDB, HTTP, PUG, Windows and Linux servers I will try my best addressing them.
 - ⚡ One of my favorite things to do is finding answers for unsolved riddles
 - 📧 Reach me @<mjaichandms@gmail.com>
 
